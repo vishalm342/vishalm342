@@ -71,6 +71,10 @@
 
 ---
 
+## Hacktoberfest Badges 
+
+[![An image of @vishalm342's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vishalm342)](https://holopin.io/@vishalm342)
+
 ## 📊 GitHub Stats
 
 <p align="center">
