@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=vishalm342&label=Profile%20views&color=0e75b6&style=flat" alt="vishalm342" />
 </p>
 
-- 🌱 I’m currently learning **Frontend web development, Python, C++, Java**
+- 🌱 I’m currently learning **Full-Stack Development, Python, C++, Java**
 
 - 💬 Ask me about **JavaScript, React, or Python**
 
@@ -71,7 +71,7 @@
 
 ---
 
-## Hacktoberfest Badges 
+## 🏆 Hacktoberfest Badges 
 
 [![An image of @vishalm342's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vishalm342)](https://holopin.io/@vishalm342)
 
