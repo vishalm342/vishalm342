@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=vishalm342&label=Profile%20views&color=0e75b6&style=flat" alt="vishalm342" />
 </p>
 
-- 🌱 I’m currently learning **Full-Stack Development, Python, C++, Java**
+- 🌱 I'm currently learning **Full-Stack Development, Python, C++, Java**
 
 - 💬 Ask me about **JavaScript, React, or Python**
 
@@ -26,7 +26,7 @@
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vishalm342&theme=algolia&no-frame=true&no-bg=false&margin-w=4" alt="github trophies" />
+  <img src="https://github-profile-trophy.vercel.app/? username=vishalm342&theme=algolia&no-frame=false&no-bg=false&margin-w=4&margin-h=4" alt="github trophies" />
 </p>
 
 ---
@@ -43,7 +43,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original. svg" alt="javascript" width="40" height="40"/>
   </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
@@ -64,7 +64,7 @@
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   </a>
   <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon. svg" alt="postman" width="40" height="40"/>
   </a>
   
 </p>
@@ -75,22 +75,23 @@
 
 [![An image of @vishalm342's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vishalm342)](https://holopin.io/@vishalm342)
 
+---
+
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vishalm342&theme=dark&show_icons=true&locale=en" alt="vishalm342" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishalm342&theme=dark" alt="streak-stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishalm342&theme=dark&layout=compact" alt="top-langs" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vishalm342&theme=dark&show_icons=true&hide_border=false&count_private=true" alt="vishalm342" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishalm342&theme=dark&hide_border=false" alt="streak-stats" height="180" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishalm342&theme=dark&layout=compact&hide_border=false" alt="top-langs" />
+</div>
 
 ---
 
 ## 🔄 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vishalm342&theme=react-dark&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vishalm342&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
 </p>
